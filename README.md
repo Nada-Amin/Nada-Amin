@@ -1,8 +1,3 @@
-### Hi there 👋
-
-
-**Nada-Amin/Nada-Amin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Nada Amin</h1>
 <h3 align="center">A passionate computer engineering student from Egypt</h3>
 
