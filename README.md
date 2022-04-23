@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nada Amin</h1><br/>
-<h3 align="center">A passionate computer engineering student from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Nada Amin</h1>
+<h3 align="center">A passionate computer engineering student from Egypt</h3><br/>
 
 - 🔭 I’m currently working on **Microwave Oven Controller using ARM Cortex-M4**
 
