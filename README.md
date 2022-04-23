@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nadaamin100213@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3v22L9Y](https://bit.ly/3v22L9Y)
+- 📄 Know about my experiences [https://bit.ly/3v22L9Y](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
